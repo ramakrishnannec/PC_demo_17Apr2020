@@ -8,7 +8,7 @@
 favicon: /images/favicon.ico
 
 # Agency logo
-agency-logo: /images/PCLogo3.svg
+agency-logo: /images/PC20_logo.png
 
 # Hero Banner
 #hero-title: President's Challenge 2019 Launch
@@ -58,6 +58,11 @@ info-sections:
     section-image-path: /images/raffles-fundraising.jpg
 
  
+# Resources Section
+resources-title: Media
+resources-subtitle: Be in the know
+resources-more-button: More Media
+resources-more-button-url: /resource-room/
 
 
 

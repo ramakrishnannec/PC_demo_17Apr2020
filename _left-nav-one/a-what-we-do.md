@@ -13,32 +13,11 @@ President's Challenge is a movement supported by the kindness and generosity of 
 It is the President's call to the nation to do their part to build a more caring and inclusive society.
 
 
-<table>
-<tr>
-<td align="center"><strong>FUNDRAISING</strong></td>
-<td align="center"><strong>CARING</strong></td>
-<td align="center"><strong>CELEBRATING</strong></td>
-</tr>
+|FUNDRAISING|CARING|CELEBRATING|
+|-----|-----|-----|
+|[![Fund Raising](/images/wwd_fundraising.jpg)](#fund-raising)|[![Caring](/images/wwd_caring.jpg)](#create-caring)|[![Celebrating](/images/wwd_celebrating.jpg)](#award-celebration)|
+|The President’s Challenge brings people from all walks of life together to raise funds for the less fortunate. [See more](#fund-raising)|The President’s Challenge Volunteer Drive encourages everyone to give their time and talent to help ...[See more](#create-caring)|The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business ...[See more](#award-celebration) |
 
-<tr>
-<td>
-  <img src="/images/wwd_fundraising.jpg" alt="Fund Raising"/>
-</td>
-<td>
-  <img src="/images/wwd_caring.jpg" alt="Caring"/>
-</td>  
-<td>
-  <img src="/images/wwd_celebrating.jpg" alt="Celebrating"/>
-</td>    
-</tr>
-
-<tr>
-<td>The President’s Challenge brings people from all walks of life together to raise funds for the less fortunate.</td>
-<td>The President’s Challenge Volunteer Drive encourages everyone to give their time and talent to help ...</td>
-<td>The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business ... </td>
-</tr>
-
-</table>
 
 <iframe width="700" height="419" src="https://www.youtube.com/embed/nY-GEQh3_l4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -53,3 +32,22 @@ ELF will focus on supporting customised, dedicated services to the most vulnerab
 Since 2000, President’s Challenge has raised more than $180 million for its benefitting organisations. Every dollar donated to President’s Challenge goes directly to the benefitting organisations, thanks to our Challenge sponsors Singapore Pools and Singapore Totalisator Board, which provide grants to cover the operating costs of President’s Challenge.
 
 ###### Photo Credits: CapitaLand, Singapore Polytechnic, YMCA SIngapore, Singapore Centre for Social Enterprise (raiSE)
+
+
+
+### Fund Raising
+President’s Challenge brings people from all walks of life together to raise funds for the less fortunate. By raising funds, you will be encouraging more people to give back to the community.  
+
+Want to fundraise but not sure what do to? Click [here](/take-action/partner-with-us/)  for some ideas or [contact us](/who-we-are/contact-us/) for more ideas.
+
+### Create Caring
+The President’s Challenge Volunteer Drive encourages everyone to give their time and talent to help and care for those in need and to create a caring and inclusive society. Since 2012, when the volunteer drive was launched, thousands have come forward to volunteer in various ways.  
+
+[Learn more](/take-action/volunteer/)
+
+#### Award Celebration
+The President’s Challenge Social Enterprise Award celebrates the achievements of innovative business models who have made significant sustained contributions to help our community.
+
+[Learn more](/who-we-are/social-enterprise/)
+
+###### Photo Credits: *CapitaLand, Singapore Polytechnic, YMCA SIngapore, Singapore Centre for Social Enterprise (raiSE)*
