@@ -97,24 +97,6 @@ Every year, our community outreach and fundraising campaign selects a large numb
 </td></tr>
 
 
-<tr><td> Rehabilitation</td></tr>
-<tr><td>
-<ol>
-<li><a href="http://www.breakthroughmissions.org.sg/" target='_blank'>Breakthrough Missions</a></li>
-<li><a href="https://www.sbws.org.sg/4l_gh.html" target='_blank'>Green Haven</a></li>
-<li><a href="https://heb.org.sg/our-subsidiaries/heb-ashram/" target='_blank'>HEB-Ashram</a></li>
-<li><a href="http://www.icarehub.org.sg/" target='_blank'>iC@re Hub Ltd</a></li>
-<li><a href="https://jhh.jamiyah.org.sg/" target='_blank'>Jamiyah Halfway House</a></li>
-<li><a href="https://mwh.muhammadiyah.org.sg/" target='_blank'>Muhammadiyah Welfare Home</a></li>
-<li><a href="http://pertapis.org.sg/pertapis-halfway-house/" target='_blank'>PERTAPIS Halfway House</a></li>
-<li><a href="http://www.saca.org.sg/" target='_blank'>Singapore After-Care Association (SACA)</a></li>
-<li><a href="https://www.sana.org.sg/" target='_blank'>Singapore Anti-Narcotics Association (SANA)</a></li>
-<li><a href="https://www.teenchallenge.org.sg/" target='_blank'>Teen Challenge (Singapore)</a></li>
-<li><a href="http://thehelpinghand.org.sg/" target='_blank'>The Helping Hand</a></li>
-</ol>
-</td></tr>
-
-
 <tr><td> Sports</td></tr>
 <tr><td>
 <ol>
@@ -122,37 +104,3 @@ Every year, our community outreach and fundraising campaign selects a large numb
  <li><a href="http://parabowlsingapore.org/" target='_blank'>Lawn Bowls Association for the Disabled (Singapore)</a></li>
 </ol>
 </td></tr>
-
-
-<tr><td> Cross Sectors
-</td></tr>
-<tr><td>
-<ol>
-<li><a href="https://www.comchest.sg/" target='_blank'>Community Chest</a></li>
-<li><a href="http://www.campusimpact.org.sg/" target='_blank'>CampusImpact</a></li>
-<li><a href="https://girlguides.org.sg/" target='_blank'>Girl Guides Singapore</a></li>
-<li><a href="https://www.lakeside.org.sg/" target='_blank'>Lakeside Family Services</a></li>
-<li><a href="https://www.nationalgallery.sg/" target='_blank'>National Gallery Singapore</a></li>
-<li><a href="https://www.onehopecentre.org/" target='_blank'>One Hope Centre</a></li>
-<li><a href="https://www.reach.org.sg/" target='_blank'>REACH Community Services Society</a></li>
-<li><a href="http://www.salemwelfareservices.org.sg/" target='_blank'>Salem Welfare Services Ltd</a></li>
-<li><a href="https://foodbank.sg/" target='_blank'>The Food Bank Singapore Ltd</a></li>
-<li><a href="https://xinyuan.org.sg/" target='_blank'>Xin Yuan Community Care</a></li>
-</ol>
-</td></tr>
-
-
-
-<tr><td> Empowering for Life Fund
-</td></tr>
-<tr><td>
- <ol>
-<li><a href="http://www.clubheal.org.sg/" target='_blank'>Club HEAL</a></li>
-<li><a href="http://www.minds.org.sg/ " target='_blank'>Movement for the Intellectually Disabled of SIngapore</a></li>
-<li><a href="https://www.mdas.org.sg/" target='_blank'>Muscular Dystrophy Association (Singapore)</a></li>
-<li><a href="http://www.wecare.org.sg/" target='_blank'>WE CARE Community Services</a></li>
-<li><a href="https://employment.sgenable.sg/" target='_blank'>SG Enable Ltd</a></li>
-<li><a href="https://www.spd.org.sg/" target='_blank'>SPD</a></li>
- </ol>
-</td></tr>
-</table> 
